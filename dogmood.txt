@@ -1,5 +1,5 @@
-Date 8/19/2020
+Date 8/22/2020
 
 Type           Name          Mood         Sum           Me
-Dog            Chance        Calm/Khol    1             Calm
-Dog            Happy         Calm         1             Calm
+Dog            Chance        what!nothing/Calm   1             Calm
+Dog            Happy         What!nothing/Calm   1             Calm
